@@ -1,0 +1,94 @@
+/*1*/
+body {
+  background-color: lightblue;
+}
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+  text-align: center;
+}
+
+a:hover {
+  color: blue;
+}
+
+/* texto */
+h1 {
+  font-family: "Helvetica";
+  text-align: center;
+  font-size: 50px;
+  border: 5px;
+  padding: 20px;
+  background-color: #f5f5dc;
+}
+
+h2 {
+  font-family: "Palatino";
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  font-family: "Georgia";
+  text-align: center;
+  font-size: 30px;
+}
+
+li {
+  font-family: "Georgia";
+  text-align: center;
+  font-size: 30px;
+}
+
+a {
+  font-family: "Georgia";
+  font-size: 25px;
+  text-decoration: none;
+  color: #007bff;
+  border: 5px;
+  padding: 20px;
+  background-color: #f5f5dc;
+}
+
+/* imagem */
+img {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Estilo */
+ul {
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: none;
+  padding: 20px;
+}
+
+ul li {
+  margin-bottom: 15px;
+}
+
+/* Corpo*/
+body {
+  height: 100%;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Centralização geral */
+div {
+  text-align: center;
+}
+
+button {
+  color: black;
+}
